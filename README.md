@@ -14,3 +14,4 @@ Once the results are obtained, the advantage is that the user will have a more g
 
 The application will provide a synthetic display of these data, in the form of graphs. It will be possible to add new data sources, or to remove them if the need arises, for users with rights. There will also be the possibility to highlight the graphs obtained, a statistical analysis with indicators that are easy to read and understand. The statistical analysis may relate to one or more products, for example in a comparative study. The results can be exported in a report or in the context of a discussion.
 
+
