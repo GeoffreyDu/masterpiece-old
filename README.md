@@ -8,6 +8,9 @@ L'application fournira un affichage synthétique de ces données, sous la forme 
 
  ### English:
  
-Application allowing a department in a company to centralize data from different sources. The goal here is to generate graphs from the recovered data. Once this is done, the user will have a more global vision and the analysis of his data will be simplified.
-The application will provide a synthetic display of this data, in the form of graphs. It will be possible to add new data sources, or to remove them if the need arises. There will also be the possibility to highlight graphs obtained, statistical analysis with indicators that are easy to read and understand. 
+Application allowing a department within a company to centralize data from different sources. The goal here is that once the data has been retrieved, graphs will be generated from this data, allowing them to be consulted in a simplified manner.
+
+Once this has been done, the user will have a more global vision of his information and this will facilitate their analysis, for example to make a restitution.
+
+The application will provide a synthetic display of this data, in the form of graphs. It will be possible to add new data sources, or to remove them if the need arises. There will also be the possibility to highlight the graphs obtained, a statistical analysis with indicators that are easy to read and understand. The statistical analysis may relate to one or more products, for example in a comparative study. The results can be exported as part of a report or any other restitution.
 
